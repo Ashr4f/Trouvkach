@@ -58,7 +58,7 @@
   "dependencies": {
     "@material-ui/core": "^4.4.1",
     "@material-ui/icons": "^4.4.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "leaflet": "^1.5.1",
     "leaflet-react": "^3.0.5",
     "mongodb": "^3.3.2",
